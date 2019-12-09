@@ -1,4 +1,4 @@
-# Blossom-Academy-Data-Engineering-Fall-2019
+# Blossom-Data-Engineering-Fall-2019
 
 This repository contains data engineering projects for the Blossom Academy Fellowship, Fall 2019
 
